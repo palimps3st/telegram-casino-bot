@@ -10,8 +10,6 @@
 
 </p>
 
-
-
 <h1 align="center">🎰 Telegram Casino Bot</h1>
 
 <p align="center">
