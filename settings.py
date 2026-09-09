@@ -1,0 +1,5 @@
+BOT_TOKEN = "YOUR TOKEN"
+DB_URL = "sqlite:///users.db"
+ADMINS = [000000000]  # ID админов
+MODERATORS = [000000000]
+TECH_SUPPORT_USER_ID = 0

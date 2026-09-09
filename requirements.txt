@@ -1,0 +1,4 @@
+aiogram==3.4.0
+bcrypt==3.2.0
+sqlalchemy==2.0.23
+sqlalchemy-aiosqlite==0.1.10
